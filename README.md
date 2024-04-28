@@ -21,8 +21,6 @@ norm_of_matrix = "{:.2f}".format(ans)
 print(norm_of_matrix)
 
 
-
-
 # 2-Norm of a Matrix
 
 Developed by: Pavithra s
@@ -33,9 +31,6 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,2)
 norm_of_matrix='{:.2f}'.format(ans)
 print(norm_of_matrix)
-
-
-
 
 
 # Developed by:Pavithra s
